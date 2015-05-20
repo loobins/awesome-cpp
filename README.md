@@ -358,6 +358,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [GMTL](http://ggt.sourceforge.net/) - Graphics Math Template Library is a collection of tools implementing Graphics primitives in generalized ways. [GPL2]
 * [GMP](https://gmplib.org/) - A C/C++ library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. [LGPL3 & GPL2]
 * [QuantLib](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. [Modified BSD] [website](http://quantlib.org/)
+* [ALGLIB](http://www.alglib.net/) ALGLIB is a cross-platform numerical analysis and data processing library.
 
 ## Multimedia
 
